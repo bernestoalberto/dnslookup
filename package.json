@@ -1,0 +1,22 @@
+{
+  "name": "dnslookup",
+  "version": "1.0.0",
+  "description": "dns functionalities",
+  "main": "dnsLookup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "dnslkp"
+  },
+  "keywords": [
+    "dns"
+  ],
+  "author": "bernestoalberto",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.5"
+  },
+  "devDependencies": {}
+}
